@@ -1,0 +1,17 @@
+Change Component Designator: OldDesignator=? NewDesignator=OUT-1
+Added Component: Designator=IN-AC(Terminal Block 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OUT-2(Terminal Block 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OUT-3(Terminal Block 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OUT-4(Terminal Block 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OUT-5(Terminal Block 2)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=stairs_control_schematic Member=Component D? THT INT
+Added Member To Class: ClassName=stairs_control_schematic Member=Component IN-AC Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-2 Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-3 Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-4 Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-5 Terminal Block 2

@@ -1,0 +1,136 @@
+Change Component Designator: OldDesignator=*? NewDesignator=T1
+Change Component Designator: OldDesignator=OA? NewDesignator=OA1
+Change Component Designator: OldDesignator=OA? NewDesignator=OA2
+Change Component Designator: OldDesignator=OA? NewDesignator=OA3
+Change Component Designator: OldDesignator=OA? NewDesignator=OA4
+Change Component Designator: OldDesignator=OA? NewDesignator=OA5
+Change Component Designator: OldDesignator=OA? NewDesignator=OA6
+Change Component Designator: OldDesignator=OA? NewDesignator=OA7
+Change Component Designator: OldDesignator=OA? NewDesignator=OA8
+Change Component Designator: OldDesignator=OA? NewDesignator=OA9
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=R? NewDesignator=R36
+Change Component Designator: OldDesignator=R? NewDesignator=R37
+Change Component Designator: OldDesignator=R? NewDesignator=R38
+Change Net Name : Old Net Name=NetOA?_1 New Net Name=NetOA4_1
+Change Net Name : Old Net Name=NetOA?_6 New Net Name=NetOA4_6
+Added Pin To Net: NetName=NetOA1_1 Pin=OA1-1
+Added Pin To Net: NetName=NetOA1_1 Pin=R13-1
+Added Net: Name=NetOA1_1
+Added Pin To Net: NetName=NetOA1_4 Pin=OA1-4
+Added Pin To Net: NetName=NetOA1_4 Pin=R18-2
+Added Pin To Net: NetName=NetOA1_4 Pin=T1-3
+Added Net: Name=NetOA1_4
+Added Pin To Net: NetName=NetOA1_6 Pin=OA1-6
+Added Pin To Net: NetName=NetOA1_6 Pin=R14-1
+Added Net: Name=NetOA1_6
+Added Pin To Net: NetName=NetOA2_1 Pin=OA2-1
+Added Pin To Net: NetName=NetOA2_1 Pin=R15-1
+Added Net: Name=NetOA2_1
+Added Pin To Net: NetName=NetOA2_6 Pin=OA2-6
+Added Pin To Net: NetName=NetOA2_6 Pin=R16-1
+Added Net: Name=NetOA2_6
+Added Pin To Net: NetName=NetOA3_1 Pin=OA3-1
+Added Pin To Net: NetName=NetOA3_1 Pin=R?-1
+Added Net: Name=NetOA3_1
+Added Pin To Net: NetName=NetOA3_6 Pin=OA3-6
+Added Pin To Net: NetName=NetOA3_6 Pin=R17-1
+Added Net: Name=NetOA3_6
+Added Pin To Net: NetName=NetOA5_1 Pin=OA5-1
+Added Pin To Net: NetName=NetOA5_1 Pin=R23-1
+Added Net: Name=NetOA5_1
+Added Pin To Net: NetName=NetOA5_6 Pin=OA5-6
+Added Pin To Net: NetName=NetOA5_6 Pin=R24-1
+Added Net: Name=NetOA5_6
+Added Pin To Net: NetName=NetOA6_1 Pin=OA6-1
+Added Pin To Net: NetName=NetOA6_1 Pin=R25-1
+Added Net: Name=NetOA6_1
+Added Pin To Net: NetName=NetOA6_6 Pin=OA6-6
+Added Pin To Net: NetName=NetOA6_6 Pin=R26-1
+Added Net: Name=NetOA6_6
+Added Pin To Net: NetName=NetOA7_1 Pin=OA7-1
+Added Pin To Net: NetName=NetOA7_1 Pin=R30-1
+Added Net: Name=NetOA7_1
+Added Pin To Net: NetName=NetOA7_6 Pin=OA7-6
+Added Pin To Net: NetName=NetOA7_6 Pin=R31-1
+Added Net: Name=NetOA7_6
+Added Pin To Net: NetName=NetOA8_1 Pin=OA8-1
+Added Pin To Net: NetName=NetOA8_1 Pin=R32-1
+Added Net: Name=NetOA8_1
+Added Pin To Net: NetName=NetOA8_6 Pin=OA8-6
+Added Pin To Net: NetName=NetOA8_6 Pin=R33-1
+Added Net: Name=NetOA8_6
+Added Pin To Net: NetName=NetOA9_1 Pin=OA9-1
+Added Pin To Net: NetName=NetOA9_1 Pin=R34-1
+Added Net: Name=NetOA9_1
+Added Pin To Net: NetName=NetOA9_6 Pin=OA9-6
+Added Pin To Net: NetName=NetOA9_6 Pin=R35-1
+Added Net: Name=NetOA9_6
+Added Member To Class: ClassName=stairs_control_schematic Member=Component *? BTB08
+Added Member To Class: ClassName=stairs_control_schematic Member=Component *? BTB08
+Added Member To Class: ClassName=stairs_control_schematic Member=Component *? BTB08
+Added Member To Class: ClassName=stairs_control_schematic Member=Component *? BTB08
+Added Member To Class: ClassName=stairs_control_schematic Member=Component *? BTB08
+Added Member To Class: ClassName=stairs_control_schematic Member=Component *? BTB08
+Added Member To Class: ClassName=stairs_control_schematic Member=Component *? BTB08
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OA1 MOC3020
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OA2 MOC3020
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OA3 MOC3020
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OA4 MOC3020
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OA5 MOC3020
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OA6 MOC3020
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OA7 MOC3020
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OA8 MOC3020
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-? Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-? Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-? Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-? Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R13 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R14 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R15 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R16 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R17 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R18 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R19 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R20 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R21 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R22 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R23 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R24 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R25 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R26 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R27 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R28 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R29 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R30 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R31 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R32 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R33 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R35 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R36 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R37 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R38 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component T1 BTB08

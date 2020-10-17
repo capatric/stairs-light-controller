@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=R12-1
+Added Net: Name=NetD10_2
+Added Room: Name=stairs_control_schematic

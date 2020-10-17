@@ -1,0 +1,550 @@
+Removed Pin From Net: NetName=Out-1 Pin=OUT-1-1
+Removed Pin From Net: NetName=AC+ Pin=OUT-1-2
+Removed Pin From Net: NetName=Out-3 Pin=OUT-2-1
+Removed Pin From Net: NetName=Out-2 Pin=OUT-2-2
+Removed Pin From Net: NetName=Out-5 Pin=OUT-3-1
+Removed Pin From Net: NetName=Out-4 Pin=OUT-3-2
+Removed Pin From Net: NetName=Out-7 Pin=OUT-4-1
+Removed Pin From Net: NetName=Out-6 Pin=OUT-4-2
+Removed Pin From Net: NetName=Out-9 Pin=OUT-5-1
+Removed Pin From Net: NetName=Out-8 Pin=OUT-5-2
+Removed Member From Class: ClassName=stairs_control_schematic Member=D?
+Removed Member From Class: ClassName=stairs_control_schematic Member=OUT-1
+Removed Member From Class: ClassName=stairs_control_schematic Member=OUT-2
+Removed Member From Class: ClassName=stairs_control_schematic Member=OUT-3
+Removed Member From Class: ClassName=stairs_control_schematic Member=OUT-4
+Removed Member From Class: ClassName=stairs_control_schematic Member=OUT-5
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change component parameters: Designator = "R1"; Footprint = "AXIAL-0.4"; UniqueID = "\SBGBFPIR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "???"; VariantName = "[No Variations]"
+Added Component: Designator=D2(WL-SMCW_0603_H=0.7mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/150060AS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength typ."; Value = "605nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Amber"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage typ."; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity typ."; Value = "130mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060AS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength typ."; Value = "610nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "December 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140deg"; VariantName = "[No Variations]"
+Added Component: Designator=D3(WL-SMCW_0603_H=0.7mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/150060AS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength typ."; Value = "605nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Amber"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage typ."; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity typ."; Value = "130mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060AS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength typ."; Value = "610nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "December 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140deg"; VariantName = "[No Variations]"
+Added Component: Designator=D4(WL-SMCW_0603_H=0.7mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/150060AS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength typ."; Value = "605nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Amber"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage typ."; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity typ."; Value = "130mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060AS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength typ."; Value = "610nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "December 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140deg"; VariantName = "[No Variations]"
+Added Component: Designator=D5(WL-SMCW_0603_H=0.7mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/150060AS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength typ."; Value = "605nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Amber"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage typ."; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity typ."; Value = "130mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060AS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength typ."; Value = "610nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "December 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140deg"; VariantName = "[No Variations]"
+Added Component: Designator=D6(WL-SMCW_0603_H=0.7mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/150060AS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength typ."; Value = "605nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Amber"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage typ."; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity typ."; Value = "130mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060AS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength typ."; Value = "610nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "December 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140deg"; VariantName = "[No Variations]"
+Added Component: Designator=D7(WL-SMCW_0603_H=0.7mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/150060AS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength typ."; Value = "605nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Amber"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage typ."; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity typ."; Value = "130mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060AS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength typ."; Value = "610nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "December 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140deg"; VariantName = "[No Variations]"
+Added Component: Designator=D8(WL-SMCW_0603_H=0.7mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/150060AS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength typ."; Value = "605nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Amber"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage typ."; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity typ."; Value = "130mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060AS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength typ."; Value = "610nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "December 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140deg"; VariantName = "[No Variations]"
+Added Component: Designator=D9(WL-SMCW_0603_H=0.7mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/150060AS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength typ."; Value = "605nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Amber"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage typ."; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity typ."; Value = "130mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060AS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength typ."; Value = "610nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "December 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140deg"; VariantName = "[No Variations]"
+Added Component: Designator=D10(WL-SMCW_0603_H=0.7mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Chip Technology"; Value = "AlInGaP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/catalog/datasheet/150060AS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength typ."; Value = "605nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitting Color"; Value = "Amber"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage typ."; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity typ."; Value = "130mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to +85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "150060AS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Peak Wavelength typ."; Value = "610nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "December 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140deg"; VariantName = "[No Variations]"
+Added Component: Designator=OUT-?(Terminal Block 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OUT-?(Terminal Block 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OUT-?(Terminal Block 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OUT-?(Terminal Block 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=OUT-?(Terminal Block 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(WRIS-KSKE_0805_H=0.6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/pbs/datasheet/560050320001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R3(WRIS-KSKE_0805_H=0.6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/pbs/datasheet/560050320001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R4(WRIS-KSKE_0805_H=0.6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/pbs/datasheet/560050320001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R5(WRIS-KSKE_0805_H=0.6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/pbs/datasheet/560050320001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R6(WRIS-KSKE_0805_H=0.6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/pbs/datasheet/560050320001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R7(WRIS-KSKE_0805_H=0.6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/pbs/datasheet/560050320001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R8(WRIS-KSKE_0805_H=0.6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/pbs/datasheet/560050320001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R9(WRIS-KSKE_0805_H=0.6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/pbs/datasheet/560050320001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R10(WRIS-KSKE_0805_H=0.6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/pbs/datasheet/560050320001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R11(WRIS-KSKE_0805_H=0.6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/pbs/datasheet/560050320001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R12(WRIS-KSKE_0805_H=0.6mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://katalog.we-online.com/pbs/datasheet/560050320001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 to +155degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "560050320001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "September 2019"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.81A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.33W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0.1Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance Tolerance"; Value = "+/-1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technical Reference"; Value = "KE0805R100F103LAATP0000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient of Resistance"; Value = "250ppm/degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D6-1
+Added Pin To Net: NetName=GND Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=GND Pin=D9-1
+Added Pin To Net: NetName=GND Pin=D10-1
+Added Pin To Net: NetName=Out-1 Pin=OUT-?-1
+Added Pin To Net: NetName=Out-3 Pin=OUT-?-1
+Added Pin To Net: NetName=Out-5 Pin=OUT-?-1
+Added Pin To Net: NetName=Out-7 Pin=OUT-?-1
+Added Pin To Net: NetName=Out-9 Pin=OUT-?-1
+Added Pin To Net: NetName=AC+ Pin=OUT-?-2
+Added Pin To Net: NetName=Out-2 Pin=OUT-?-2
+Added Pin To Net: NetName=Out-4 Pin=OUT-?-2
+Added Pin To Net: NetName=Out-6 Pin=OUT-?-2
+Added Pin To Net: NetName=Out-8 Pin=OUT-?-2
+Added Pin To Net: NetName=VinA Pin=Probe-1-1
+Added Pin To Net: NetName=PB1 Pin=Probe-1-2
+Added Pin To Net: NetName=VinA Pin=Probe-2-1
+Added Pin To Net: NetName=PB2 Pin=Probe-2-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=PB1 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=PB2 Pin=R3-2
+Added Pin To Net: NetName=DS1 Pin=R4-2
+Added Pin To Net: NetName=DS2 Pin=R5-2
+Added Pin To Net: NetName=DS3 Pin=R6-2
+Added Pin To Net: NetName=DS4 Pin=R7-2
+Added Pin To Net: NetName=DS5 Pin=R8-2
+Added Pin To Net: NetName=DS6 Pin=R9-2
+Added Pin To Net: NetName=DS7 Pin=R10-2
+Added Pin To Net: NetName=DS8 Pin=R11-2
+Added Pin To Net: NetName=DS9 Pin=R12-2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R4-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R5-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R6-1
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R7-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R8-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R9-1
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=R10-1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=R11-1
+Added Net: Name=NetD9_2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component D2 SMD
+Added Member To Class: ClassName=stairs_control_schematic Member=Component D3 SMD
+Added Member To Class: ClassName=stairs_control_schematic Member=Component D4 SMD
+Added Member To Class: ClassName=stairs_control_schematic Member=Component D5 SMD
+Added Member To Class: ClassName=stairs_control_schematic Member=Component D6 SMD
+Added Member To Class: ClassName=stairs_control_schematic Member=Component D7 SMD
+Added Member To Class: ClassName=stairs_control_schematic Member=Component D8 SMD
+Added Member To Class: ClassName=stairs_control_schematic Member=Component D9 SMD
+Added Member To Class: ClassName=stairs_control_schematic Member=Component D10 SMD
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-? Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-? Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-? Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-? Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-? Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R1 Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R2 10k
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R3 10k
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R4 330
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R5 330
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R6 330
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R7 330
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R8 330
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R9 330
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R10 330
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R11 330
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R12 330
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Room: Name=stairs_control_schematic

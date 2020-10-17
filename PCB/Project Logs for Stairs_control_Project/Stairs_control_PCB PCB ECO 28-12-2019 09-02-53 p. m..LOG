@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=* NewDesignator=U12
+Added Member To Class: ClassName=stairs_control_schematic Member=Component ? LM7805
+Added Member To Class: ClassName=stairs_control_schematic Member=Component D? THT INT
+Added Member To Class: ClassName=stairs_control_schematic Member=Component U12 MOC3020

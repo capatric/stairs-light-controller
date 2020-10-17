@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=? NewDesignator=1
+Added Member To Class: ClassName=stairs_control_schematic Member=Component 1 LM7805
+Added Member To Class: ClassName=stairs_control_schematic Member=Component ? Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component D? THT INT
+Added Room: Name=stairs_control_schematic

@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=U12 NewDesignator=OA1
+Change Component Designator: OldDesignator=U? NewDesignator=Microcontroller
+Added Member To Class: ClassName=stairs_control_schematic Member=Component D? THT INT

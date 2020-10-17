@@ -1,0 +1,3 @@
+Added Component: Designator=*(Arduino nano)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=stairs_control_schematic Member=Component * arduinoNano

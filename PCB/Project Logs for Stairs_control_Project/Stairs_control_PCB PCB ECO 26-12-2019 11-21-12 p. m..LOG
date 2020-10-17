@@ -1,0 +1,5 @@
+Added Component: Designator=?(Terminal Block 2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=DS7 Pin=U?-7
+Added Net: Name=DS7
+Added Member To Class: ClassName=stairs_control_schematic Member=Component ? Terminal Block 2

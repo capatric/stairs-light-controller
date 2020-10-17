@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R?-1
+Added Net: Name=NetD1_2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component D? THT INT
+Added Room: Name=stairs_control_schematic

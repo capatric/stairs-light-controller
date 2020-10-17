@@ -1,0 +1,4 @@
+Added Component: Designator=U?(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=stairs_control_schematic Member=Component U? Arduino Nano
+Added Room: Name=stairs_control_schematic

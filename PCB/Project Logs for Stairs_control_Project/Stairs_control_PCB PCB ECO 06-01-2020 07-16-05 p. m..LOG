@@ -1,0 +1,24 @@
+Added Component: Designator=IN-1(Terminal Block 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IN-2(Terminal Block 2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=IN-3(Terminal Block 2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=IN-2-1
+Added Pin To Net: NetName=VinA Pin=IN-2-2
+Added Pin To Net: NetName=Echo-a Pin=IN-1-1
+Added Pin To Net: NetName=Echo-a Pin=Microcontroller-15
+Added Net: Name=Echo-a
+Added Pin To Net: NetName=Echo-b Pin=IN-3-1
+Added Pin To Net: NetName=Echo-b Pin=Microcontroller-19
+Added Net: Name=Echo-b
+Added Pin To Net: NetName=Trig-a Pin=IN-1-2
+Added Pin To Net: NetName=Trig-a Pin=Microcontroller-14
+Added Net: Name=Trig-a
+Added Pin To Net: NetName=Trig-b Pin=IN-3-2
+Added Pin To Net: NetName=Trig-b Pin=Microcontroller-20
+Added Net: Name=Trig-b
+Added Member To Class: ClassName=stairs_control_schematic Member=Component IN-1 Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component IN-2 Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component IN-3 Terminal Block 2
+Added Room: Name=stairs_control_schematic

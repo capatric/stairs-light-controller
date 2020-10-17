@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=stairs_control_schematic Member=1
+Added Component: Designator=?(LM7805)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=stairs_control_schematic Member=Component ? LM7805
+Added Member To Class: ClassName=stairs_control_schematic Member=Component D? THT INT

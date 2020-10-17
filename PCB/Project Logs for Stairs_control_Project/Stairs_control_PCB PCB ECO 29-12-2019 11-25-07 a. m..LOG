@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=P1 NewDesignator=Bluetooth
+Added Pin To Net: NetName=VinA Pin=Bluetooth-1
+Added Pin To Net: NetName=GND Pin=Bluetooth-2
+Added Pin To Net: NetName=TX Pin=Bluetooth-3
+Added Pin To Net: NetName=RX Pin=Bluetooth-4
+Added Member To Class: ClassName=stairs_control_schematic Member=Component D? THT INT
+Added Room: Name=stairs_control_schematic

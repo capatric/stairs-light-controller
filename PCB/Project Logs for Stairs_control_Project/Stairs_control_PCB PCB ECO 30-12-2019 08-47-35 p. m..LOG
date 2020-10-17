@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=DS1 Pin=R?-2
+Removed Pin From Net: NetName=DS1 Pin=R?-2
+Removed Pin From Net: NetName=DS1 Pin=R?-2
+Removed Pin From Net: NetName=DS1 Pin=R?-2
+Removed Pin From Net: NetName=DS1 Pin=R?-2
+Removed Pin From Net: NetName=DS1 Pin=R?-2
+Removed Pin From Net: NetName=DS1 Pin=R?-2
+Removed Pin From Net: NetName=DS1 Pin=R?-2
+Added Pin To Net: NetName=DS2 Pin=R?-2
+Added Pin To Net: NetName=DS3 Pin=R?-2
+Added Pin To Net: NetName=DS4 Pin=R?-2
+Added Pin To Net: NetName=DS5 Pin=R?-2
+Added Pin To Net: NetName=DS6 Pin=R?-2
+Added Pin To Net: NetName=DS7 Pin=R?-2
+Added Pin To Net: NetName=DS8 Pin=R?-2
+Added Pin To Net: NetName=DS9 Pin=R?-2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component *? BTB08
+Added Member To Class: ClassName=stairs_control_schematic Member=Component *? BTB08
+Added Member To Class: ClassName=stairs_control_schematic Member=Component *? BTB08
+Added Member To Class: ClassName=stairs_control_schematic Member=Component *? BTB08
+Added Member To Class: ClassName=stairs_control_schematic Member=Component *? BTB08
+Added Member To Class: ClassName=stairs_control_schematic Member=Component *? BTB08
+Added Member To Class: ClassName=stairs_control_schematic Member=Component *? BTB08
+Added Member To Class: ClassName=stairs_control_schematic Member=Component *? BTB08
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OA? MOC3020
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OA? MOC3020
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OA? MOC3020
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OA? MOC3020
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OA? MOC3020
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OA? MOC3020
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OA? MOC3020
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OA? MOC3020
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-? Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-? Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-? Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component OUT-? Terminal Block 2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Member To Class: ClassName=stairs_control_schematic Member=Component R? Res2
+Added Room: Name=stairs_control_schematic
