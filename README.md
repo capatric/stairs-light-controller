@@ -5,7 +5,7 @@ This is a PCB that controls the start and stop of lights, in this case, for a sp
 ## Schematic diagram
 ![alt text](https://github.com/PatrickAngel0208/stairs-light-controller/blob/main/pics/stairs_control_schematic_001.png)
 
-## PCB Layouts
+## PCB Layout
 ![alt text](https://github.com/PatrickAngel0208/stairs-light-controller/blob/main/pics/PCB-layout-stairs-light-controller.png)
 
 
