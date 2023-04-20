@@ -4,7 +4,7 @@ This GitHub repository holds the design files for a Printed Circuit Board (PCB) 
 
 The PCB was created using Altium Designer and features an Arduino Nano microcontroller for efficient programming and customization. The design is compact, making it easy to fit into a variety of applications. With the ability to detect the presence of people and control multiple devices, this PCB is an excellent tool for creating a smart and energy-efficient home.
 
-The design files are available for modification and customization, providing endless possibilities for home automation projects. Whether you're looking to control your home's lighting, or other appliances, this PCB project can be a valuable tool in making your life more comfortable and efficient.
+The design files are available for modification and customization, providing endless possibilities for home automation projects. Whether you're looking to control your home's lighting, or other appliances, this PCB project can be a valuable tool in making your life more comfortable and efficient...
 
 
 
